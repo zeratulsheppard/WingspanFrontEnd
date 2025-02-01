@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    // Enables the rest/spread properties for object literals
+    "@babel/plugin-proposal-object-rest-spread",
+    // Allows parsing of import() syntax
+    "@babel/plugin-syntax-dynamic-import"
+  ]
+}
